@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CEC68BE8-78FC-46D4-BA0E-E14CBA0BA80C}|Practice\\Practice.csproj|c:\\users\\kzeyn\\source\\repos\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEC68BE8-78FC-46D4-BA0E-E14CBA0BA80C}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC68BE8-78FC-46D4-BA0E-E14CBA0BA80C}|Practice\\Practice.csproj|c:\\users\\kzeyn\\source\\repos\\practice\\practice\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC68BE8-78FC-46D4-BA0E-E14CBA0BA80C}|Practice\\Practice.csproj|solutionrelative:practice\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn\\source\\repos\\Practice\\Practice\\Car.cs",
+              "RelativeDocumentMoniker": "Practice\\Car.cs",
+              "ToolTip": "C:\\Users\\kzeyn\\source\\repos\\Practice\\Practice\\Car.cs",
+              "RelativeToolTip": "Practice\\Car.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:20:00.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kzeyn\\source\\repos\\Practice\\Practice\\Program.cs",
               "RelativeDocumentMoniker": "Practice\\Program.cs",
               "ToolTip": "C:\\Users\\kzeyn\\source\\repos\\Practice\\Practice\\Program.cs",
               "RelativeToolTip": "Practice\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T19:10:03.75Z",
               "EditorCaption": ""
